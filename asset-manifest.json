@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/network-topology/static/js/main.030628fd.js",
+    "static/media/fully-connected.png": "/network-topology/static/media/fully-connected.a1748bb269a6b34d1428.png",
+    "static/media/mesh.png": "/network-topology/static/media/mesh.9947486a735e6e225550.png",
+    "static/media/tree.png": "/network-topology/static/media/tree.7a9361090e04908846ad.png",
+    "static/media/router.png": "/network-topology/static/media/router.bb33cb379c9a8702474d.png",
+    "static/media/ring.png": "/network-topology/static/media/ring.e61a89d9139eec14405a.png",
+    "static/media/star.png": "/network-topology/static/media/star.1874848a211cb1776401.png",
+    "index.html": "/network-topology/index.html",
+    "main.030628fd.js.map": "/network-topology/static/js/main.030628fd.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.030628fd.js"
+  ]
+}
